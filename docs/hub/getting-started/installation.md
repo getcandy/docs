@@ -34,7 +34,7 @@ mkdir hub && cd hub
 Clone down the hub repository
 
 ```shell
-git clone git@github.com:getcandy/hub.git .
+git clone https://github.com/getcandy/hub.git  .
 ```
 
 Copy the example .env file
